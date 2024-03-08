@@ -1,4 +1,4 @@
-# Solução Avançada para Análise Profunda de Satisfação do Cliente - CaféLabAI
+# Microsoft Azure - IA + Machine Learning
 
 Este guia completo oferece instruções detalhadas para a configuração de uma pesquisa de satisfação do cliente, incorporando recursos avançados como transcrição automática de áudio, análise de sentimentos, análise de imagens, reconhecimento de áudio e visual, e ainda a aplicação de Machine Learning automático. As ferramentas utilizadas são provenientes das poderosas soluções do Azure, proporcionando insights valiosos para aprimorar a qualidade dos serviços em todas as unidades da multinacional de café.
 
